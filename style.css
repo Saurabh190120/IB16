@@ -1,0 +1,23 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+
+h1{
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align:center;
+     background: linear-gradient(blue,red,yellow,orange,black,green); 
+
+}
+body{
+    background-color: rgb(220, 152, 62);
+}
+.first{
+    height: 200px;
+    width: 200px;
+    position: relative ;
+    left: 200px;
+    box-shadow: 10px 10px 10px red ;
+}
