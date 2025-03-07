@@ -9,3 +9,12 @@
     margin-top: 20px;
    
 }
+.sec{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border: 10px double red;
+    margin-top: 10px;
+    /* box-shadow: 12px 12px 5px 5px red; */
+     border-radius: 50px;
+}
