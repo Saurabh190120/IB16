@@ -1,0 +1,23 @@
+.shoes{
+    background-color: rgb(192, 29, 29);
+    margin: 100px;
+   max-width: f300px;
+    padding:50px ;
+    color: white;
+    
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;  
+    text-align: center;
+}
+button{
+    font-size: 80px;
+    color: white;
+    background-color: black;
+    width: 800px;
+    
+}
