@@ -1,0 +1,10 @@
+.parent{
+    background-color: blue;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: repeat(3, auto);
+
+}
+.ch1,.ch2,.ch3,.ch4,.ch5,.ch6{
+    border: 5px solid black ;
+}

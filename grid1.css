@@ -1,0 +1,29 @@
+.para{
+  
+    background-color: rgb(145, 145, 158);
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    height: 100vh;
+    gap: 5px;
+}
+.c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8{
+    background-color:wheat;
+    border: 5px solid whitesmoke ;
+    color: black;
+}
+.c4{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.c5{
+    grid-row-start:2 ;
+    grid-row-end: 4;
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+}
+.c8{
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}
