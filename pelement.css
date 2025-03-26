@@ -1,0 +1,25 @@
+.para::first-letter{
+    color: red;
+}
+.para::first-line{
+    color: blueviolet;
+}
+input::placeholder{
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+}
+.name::after{
+    content: " sharma";
+    color: blue;
+}
+.name::before{
+    content: "Mr.";
+    color: brown;
+}
+body{
+    font-family: "Boldonse", system-ui;
+}
+.name{
+    font-family: "Tektur", sans-serif;
+}

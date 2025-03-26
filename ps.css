@@ -21,3 +21,6 @@ ul li:nth-child(even){
     background-color: blue;
     color: white ;
 }
+table tr:nth-child(odd){
+    background-color: aqua;
+}
